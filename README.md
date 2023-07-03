@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Hakim 👋
+<a href=""><img src="https://github.com/Hakimovich99/Hakimovich99/blob/main/devcard.svg" width="400" alt="Hakim Amri's Dev Card"/></a>
 <!--
 **Hakimovich99/Hakimovich99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
